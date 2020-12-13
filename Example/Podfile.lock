@@ -1,0 +1,16 @@
+PODS:
+  - Print_First (0.1.0)
+
+DEPENDENCIES:
+  - Print_First (from `../`)
+
+EXTERNAL SOURCES:
+  Print_First:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Print_First: 1546c408e4221f3b79292077984837a926d6cc4a
+
+PODFILE CHECKSUM: 4f5b2b35a4f4da442e0df89a18b974075ba85e59
+
+COCOAPODS: 1.10.0

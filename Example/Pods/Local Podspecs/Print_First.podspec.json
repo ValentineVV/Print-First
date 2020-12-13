@@ -1,0 +1,22 @@
+{
+  "name": "Print_First",
+  "version": "0.1.0",
+  "summary": "A short description of Print_First.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ValentineVV/Print_First",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ValentineVV": "valiantsin_vasiliavitski@epam.com"
+  },
+  "source": {
+    "git": "https://github.com/ValentineVV/Print_First.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Print_First/Classes/**/*"
+}

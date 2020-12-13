@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Print_First_Tests' do
+  pod 'Print_First', :path => '../'
+  
+  
+end
