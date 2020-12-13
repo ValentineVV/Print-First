@@ -9,7 +9,7 @@ import Foundation
 
 public struct PrintFirst {
     
-    public func printFirst() {
+    public static func printFirst() {
         print("first")
     }
     
